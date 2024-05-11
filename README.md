@@ -1,5 +1,5 @@
 # Virus_Spread_sim
-This program revolves around writing a code to study a simplified model of how viruses spread in the world, and how this process can be affected by different choices. 
+This program revolves around writing a code to study a simplified model of how viruses spread in the world, and how this process can be affected by the set of policies in the country, the virus's characteristics, and mobility of the population. 
 
 # Countries
 A country (is an object that) has the following characteristics:
